@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema path="/com/github/rippieuk/hello-again/" id="com.github.rippieuk.hello-again">
+    <key name="dark-mode" type="b">
+      <default>false</default>
+      <summary>prefer_darkmode</summary>
+      <description>Prefer if dark mode or light mode</description>
+    </key>
+  </schema>
+</schemalist>
